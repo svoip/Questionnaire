@@ -1,0 +1,80 @@
+{
+   "questions": [
+                 {
+                 "inputs": [{
+                            "Yes": true
+                            },
+                            {
+                            "No": null
+                            }],
+                 "title": "Is the Earth larger than Mars in terms of diameter?",
+                 "type": "QuestionTypeSingleChoice"
+                 },
+                 {
+                 "inputs": [
+                            {
+                            "Neptune": null
+                            },
+                            {
+                            "Mercury": null
+                            },
+                            {
+                            "Jupiter": null
+                            },
+                            {
+                            "Venus": null
+                            }],
+                 "title": "Choose the planet that is located closest to the Sun?",
+                 "type": "QuestionTypeSingleChoice"
+                 },
+                 {
+                 "inputs": [{
+                            "Sun": null
+                            },
+                            {
+                            "Vega": null
+                            },
+                            {
+                            "Neptune": null
+                            },
+                            {
+                            "Sirius": null
+                            },
+                            {
+                            "Pluto": null
+                            },
+                            {
+                            "Saturn": null
+                            }],
+                 "title": "Select the star names:",
+                 "type": "QuestionTypeMultipleChoice"
+                 },
+                 {
+                 "inputs": [
+                            {
+                            "textFieldKey": null
+                            }
+                            ],
+                 "title": "What do you think the global warming effects would be in the next 10-20 years?",
+                 "type": "QuestionTypeOpenEnded"
+                 },
+                 {
+                 "inputs": [
+                            {
+                            "60 million km": true
+                            },
+                            {
+                            "90 million km": null
+                            },
+                            {
+                            "150 million km": null
+                            },
+                            {
+                            "200 million km": null
+                            }
+                            ],
+                 "title": "What is the distance between the Earth and the Sun?",
+                 "type": "QuestionTypeSingleChoice"
+                 }
+                 ]
+}
